@@ -4,7 +4,7 @@
 SyriaTel, a leading telecommunications provider, faces significant challenges in retaining customers. The goal of this project is to predict customer churn using machine learning techniques and provide actionable insights to reduce churn rates. By identifying customers likely to leave, SyriaTel can proactively implement targeted retention strategies, minimizing revenue loss and enhancing customer loyalty.
 
 ### Stakeholder
-SyriaTel
+1. SyriaTel Mobile Telecom
 
 ### Problem statement
  
